@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Ray.
+#### I'm a Father Husband Student Developer.
+
+
+- 🔭 I’m currently a graduate student at Northeastern University
+- 🌱 I’m currently learning Computer Software Engineering
+- 👯 I’m interested in Web Development
+- 🤔 I’m looking for 2024 internship
+- ⚡ Skills: <br>Languages: Java, JavaScript, Python, HTML5, CSS3, SQL.<br>
+Libraries and Frameworks: React, Node.js, Express.js, Redux, Tailwind CSS, Java Swing.
+<br>Tools: Git, GitHub, MongoDB, MySQL, AWS.
 
 <!--
 **laughtale678/laughtale678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
