@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Ray.
-#### I'm a Father Husband Student Developer.
+#### I'm a Fullstack Developer.
 
 
 - 🔭 I’m currently a graduate student at Northeastern University
-- 🌱 I’m currently learning fullstack web development and Flutter
-- 😄 I’m interested in Web Development
-- 🤔 I’m looking for 2024 internship
+- 🌱 I’m currently learning Fullstack Web Development and Flutter
+- 😄 I’m interested in problem solving
+- 🤔 I’m looking for 2024 internship opportunities
 - ⚡ Skills: <br>Languages: Java, JavaScript, Python, HTML5, CSS3, SQL.<br>
 Libraries and Frameworks: React, Node.js, Express.js, Redux, Tailwind CSS, Java Swing.
 <br>Tools: Git, GitHub, MongoDB, MySQL, AWS.
