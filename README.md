@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently a graduate student at Northeastern University
-- 🌱 I’m currently learning Fullstack Web Development and Flutter
+- 🌱 I’m currently learning Database Management and Cloud Computing
 - 😄 I’m interested in problem solving
 - 🤔 I’m looking for 2025 internship/ng opportunities
 - ⚡ Skills: <br>Languages: Java, JavaScript, Python, HTML5, CSS3, SQL.<br>
