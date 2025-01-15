@@ -5,7 +5,7 @@
 - 🔭 I’m currently a graduate student at Northeastern University
 - 🌱 I’m currently learning Database Management and Cloud Computing
 - 😄 I’m interested in problem solving
-- 🤔 I’m looking for 2025 internship/ng opportunities
+- 🤔 I’m looking for 2025 ng opportunities
 - ⚡ Skills: <br>Languages: Java, JavaScript, Python, HTML5, CSS3, SQL.<br>
 Libraries and Frameworks: React, Node.js, Express.js, Redux, Tailwind CSS, Java Swing.
 <br>Tools: Git, GitHub, MongoDB, MySQL, AWS.
