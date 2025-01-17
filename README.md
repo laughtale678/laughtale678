@@ -7,7 +7,7 @@
 - 😄 I’m interested in problem solving
 - 🤔 I’m looking for 2025 ng opportunities
 - ⚡ Skills: <br>Languages: Java, JavaScript, Python, HTML5, CSS3, SQL.<br>
-Libraries and Frameworks: React, Node.js, Express.js, Redux, Tailwind CSS, Java Swing.
+Libraries and Frameworks: React, Node.js, Express.js, Redux, Tailwind CSS.
 <br>Tools: Git, GitHub, MongoDB, MySQL, AWS.
 
 <!--
