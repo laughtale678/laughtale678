@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently a graduate student at Northeastern University
-- 🌱 I’m currently learning Database Management and Cloud Computing
+- 🌱 I’m currently learning business analysis
 - 😄 I’m interested in problem solving
 - 🤔 I’m looking for 2025 ng opportunities
 - ⚡ Skills: <br>Languages: Java, JavaScript, Python, HTML5, CSS3, SQL.<br>
